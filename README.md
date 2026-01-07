@@ -8,3 +8,8 @@ Machine Learning and data-driven code samples aligned with the research objectiv
 
 ## Tools & Technologies
 Python, scikit-learn, PyTorch, TensorFlow, Pandas, NumPy
+
+## Dataset Note
+The dataset (`train.csv`) is not included in this repository.
+Please download the Kaggle Titanic dataset and place `train.csv` inside the `data/` folder before running the code.
+
